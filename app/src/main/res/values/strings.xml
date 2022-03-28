@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="app_NombredelCliente">Ingrese su nombre:</string>
+    <string name="app_tamaño">Tamaño de las pizzas</string>
+    <string name="app_ingredientes">Ingredientes con los que desee acompañar su pizza</string>
+    <string name="app_cancelar">Total:</string>
+
+</resources>
